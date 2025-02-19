@@ -1,0 +1,85 @@
+[
+  {
+    "id": "0",
+    "projectId": "0x823ec5931a720342f5ed7aff882d97f76b1d55ed70a78d3401c42223066ae83b",
+    "status": "PENDING",
+    "name": "Seitrace",
+    "website": "https://seitrace.com",
+    "anchorAddress": "0xb0b467bac5d87e030d7b8750106fe85b4cd4b51b",
+    "recipient": "0x68c466145d3095832c87d9bd9b5013496886b895",
+    "fund_link": "https://explorer.gitcoin.co/#/round/1329/9/0",
+    "answers": [
+      {
+        "type": "short-answer",
+        "answer": "meowttt7",
+        "hidden": true,
+        "question": "Telegram Handle for Contact",
+        "questionId": 0
+      },
+      {
+        "type": "link",
+        "answer": "https://x.com/seitrace_",
+        "hidden": false,
+        "question": "Public Group Chat Link",
+        "questionId": 1
+      },
+      {
+        "type": "paragraph",
+        "answer": "Compass Wallet, Yei Finance, Silo Finance, Pit Finance, DragonSwap, JPEG-Trading, Trident, Binance, Bybit, OKX, etc.",
+        "hidden": false,
+        "question": "List the active Sei dApps/projects currently using your infrastructure or tooling (minimum three required). Provide integration proof.",
+        "questionId": 2
+      },
+      {
+        "type": "paragraph",
+        "answer": "Seitrace Insights API Customers:\nTotal users\n1,649\nCurrent paid active\n7\nRegular (Free Trial) users\n1,592\n\nSei Asset List:\nhttps://github.com/Seitrace/sei-assetlist",
+        "hidden": true,
+        "question": "Share specific metrics demonstrating developer adoption (GitHub activity, API usage, package downloads, etc.). Acceptable metrics include: GitHub activity: Contributors, stars, forks, pull requests, or issues. API usage: Volume of API calls, unique users (e.g., IPs or authenticated accounts), or endpoint performance data. Package adoption: Downloads from registries (e.g., npm, Docker Hub) or integration into ecosystem tools. Community engagement: Testimonials, forum activity, or developer endorsements.",
+        "questionId": 3
+      },
+      {
+        "type": "paragraph",
+        "answer": "Seitrace has optimized data indexing and retrieval on Sei by reducing query latency by approximately 40% compared to standard explorers. Our platform enables developers and users to access up-to-date blockchain data with improved throughput (handling hundreds of thousands of API calls daily) while reducing operational costs by leveraging efficient resource utilization.",
+        "hidden": true,
+        "question": "Quantify your tool's impact on the Sei ecosystem (e.g., performance improvements, cost reductions, throughput increases).",
+        "questionId": 4
+      },
+      {
+        "type": "paragraph",
+        "answer": "Seitrace Insights (API): https://seitrace.com/insights?chain=pacific-1\n\nAPI Docs: https://seitrace.com/insights-docs?chain=pacific-1\n\nSei Verified Asset List: https://seitrace.com/verified-assets?chain=pacific-1\n\nSeitrace Docs: https://docs.seitrace.com/\n\nSuccessful Third-party integrations can be found on Compass Wallet, Yei Finance, Silo Finance, Pit Finance, DragonSwap, JPEG-Trading, Trident, Binance, Bybit, OKX, etc. directly (Seitrace URLs and also indexing APIs powered by Seitrace)",
+        "hidden": true,
+        "question": "Provide links to your public documentation and evidence of successful third-party integrations.",
+        "questionId": 5
+      },
+      {
+        "type": "paragraph",
+        "answer": "MVP Q1 2024, Mainnet Q2 2024, API Platform Q3 2024\n\nSince launch, we have maintained over 99.95% uptime with continuous operation for more than 30 days. Key operational metrics include:\n\nAverage Query Latency: <200ms\nDaily API Calls: Over 500,000\nUptime: 99.95%+ monitored via our real-time dashboards",
+        "hidden": true,
+        "question": "When did your tool/infrastructure go live on Sei, and what metrics demonstrate continuous operation for at least 30 days?",
+        "questionId": 6
+      },
+      {
+        "type": "paragraph",
+        "answer": "Unified EVM & Cosmos Data Integration:\nBy combining data from both the EVM and Cosmos layers, Seitrace provides users with a comprehensive, single-source view of blockchain activity—improving data accessibility by nearly 50% compared to standalone explorers.\n\nPerformance & Scalability Enhancements:\nOur advanced indexing, caching, and query optimization techniques have reduced response times by 40% and increased throughput by 30%, ensuring smooth performance even during high transaction periods.\n\nUser/Developer-Centric Tools & Custom Analytics:\nSeitrace offers robust APIs and customizable dashboards that empower developers to build faster and more efficiently, cutting integration and troubleshooting times for everyone.",
+        "hidden": true,
+        "question": "Highlight 1-3 key initiatives your team believes have had the most significant impact on the Sei ecosystem and that you’d like voters to consider. Include relevant metrics, links, or supporting data to provide an informed view of how your efforts have contributed to the ecosystem’s growth. ",
+        "questionId": 7
+      },
+      {
+        "type": "checkbox",
+        "answer": [
+          "Yes"
+        ],
+        "hidden": true,
+        "question": "Please confirm that you have read and agree to comply with the ethical standards outlined in the eligibility criteria.",
+        "questionId": 8
+      },
+      {
+        "type": "paragraph",
+        "hidden": true,
+        "question": "Is there anything else you'd like to share about your project that may help determine eligibility?",
+        "questionId": 9
+      }
+    ]
+  }
+]

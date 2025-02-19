@@ -1,0 +1,1248 @@
+[
+  {
+    "id": "0",
+    "projectId": "0x823ec5931a720342f5ed7aff882d97f76b1d55ed70a78d3401c42223066ae83b",
+    "status": "PENDING",
+    "name": "Seitrace",
+    "website": "https://seitrace.com",
+    "anchorAddress": "0xb0b467bac5d87e030d7b8750106fe85b4cd4b51b",
+    "recipient": "0x68c466145d3095832c87d9bd9b5013496886b895",
+    "fund_link": "https://explorer.gitcoin.co/#/round/1329/9/0",
+    "answers": [
+      {
+        "type": "short-answer",
+        "answer": "meowttt7",
+        "hidden": true,
+        "question": "Telegram Handle for Contact",
+        "questionId": 0
+      },
+      {
+        "type": "short-answer",
+        "answer": "https://x.com/seitrace_",
+        "hidden": false,
+        "question": "Public group chat link",
+        "questionId": 1
+      },
+      {
+        "type": "paragraph",
+        "answer": "Since launch, Seitrace has experienced robust user growth:\n\nDAU: Currently averaging ~800 daily active users (up from ~500 in early months).\nWAU: ~3,700 weekly active users.\nMAU: ~13,000 monthly active users.\n(Metrics are tracked via Google Analytics)",
+        "hidden": true,
+        "question": "What have your project's key user metrics been since launch (DAU, WAU, MAU)? Please provide verifiable data showing growth trends.",
+        "questionId": 2
+      },
+      {
+        "type": "paragraph",
+        "answer": "Since Sei V2’s launch, Seitrace has indexed over 1B transactions and over 47M wallet addresses. Please refer: https://seitrace.com/stats?chain=pacific-1",
+        "hidden": true,
+        "question": "Share your project's total transaction volume and unique wallet interactions since the launch of Sei V2.",
+        "questionId": 3
+      },
+      {
+        "type": "paragraph",
+        "answer": "Seitrace has contributed to attracting over 10,000+ new users to the Sei ecosystem.\n\nAcquisition Methods:\nFree targeted ads for project within Sei ecosystem\nIntegrations with wallet providers such as Compass Wallet that drive direct traffic to the explorer.",
+        "hidden": true,
+        "question": "How many new users have your project brought to the Sei ecosystem? Describe your user acquisition methods and provide metrics.",
+        "questionId": 4
+      },
+      {
+        "type": "paragraph",
+        "answer": "Seitrace is proud to be the key API providers for multiple Sei ecosystem projects and infrastructure providers such as Compass Wallet, DragonSwap, Yei Finance, Pit Finance, Trident, etc.",
+        "hidden": true,
+        "question": "Detail any integrations or partnerships with other Sei ecosystem projects and their measurable impact.",
+        "questionId": 5
+      },
+      {
+        "type": "paragraph",
+        "answer": "Unified Data Views: Integrating both EVM and Cosmos data, providing a comprehensive, one-stop explorer tailored to Sei’s architecture.\nOptimized Performance: Our custom indexing and caching techniques reduce query latency by ~40% compared to standard explorers.\nAdvanced Analytics: We offer real-time data insights and custom API endpoints, enabling developers to access in-depth blockchain metrics quickly.\nThis combination results in a faster, more intuitive user experience that goes beyond the basic functionality of fallback explorers like Blockscout or Seiscan.",
+        "hidden": true,
+        "question": "What differentiates your project from similar solutions in the ecosystem? How does it enhance the user experience on Sei?",
+        "questionId": 6
+      },
+      {
+        "type": "paragraph",
+        "answer": "Unified EVM & Cosmos Integration:\nProvides a single, comprehensive view of the network.\nIncreased data accessibility by ~50% compared to separate explorers.\n\n\nPerformance Optimization:\nAchieved a 40% reduction in query latency and a 30% increase in throughput, ensuring a seamless experience even during peak usage.\n\nUser/Developer-Centric Tools and Partnerships:\nLaunched robust APIs, detailed documentation, and direct Telegram support groups that have reduced integration times significantly.\n",
+        "hidden": true,
+        "question": "Highlight 1-3 key initiatives your team believes have had the most significant impact on the Sei ecosystem and that you’d like voters to consider. Include relevant metrics, links, or supporting data to provide an informed view of how your efforts have contributed to the ecosystem’s growth. ",
+        "questionId": 7
+      },
+      {
+        "type": "checkbox",
+        "answer": [
+          "Yes"
+        ],
+        "hidden": true,
+        "question": "Please confirm that you have read and agree to comply with the ethical standards outlined in the eligibility criteria.",
+        "questionId": 8
+      },
+      {
+        "type": "paragraph",
+        "hidden": true,
+        "question": "Is there anything else you'd like to share about your project that may help determine eligibility?",
+        "questionId": 9
+      }
+    ]
+  },
+  {
+    "id": "1",
+    "projectId": "0x1ee69009af82ce0f9527017c5c505a38dee081ce615fb9f151f3c6f1080b3b27",
+    "status": "PENDING",
+    "name": "SeiQuid Game",
+    "website": "https://x.com/SeiquidGame",
+    "anchorAddress": "0x23dfa30657cf00bbc202206b2825c93b62d6177c",
+    "recipient": "0x852655ab7684FEB2362982428F06895603daBD3f",
+    "fund_link": "https://explorer.gitcoin.co/#/round/1329/9/1",
+    "answers": [
+      {
+        "type": "short-answer",
+        "answer": "@seiquidxyz",
+        "hidden": true,
+        "question": "Telegram Handle for Contact",
+        "questionId": 0
+      },
+      {
+        "type": "short-answer",
+        "answer": "https://t.me/+LcIL0smlWs02NTE9",
+        "hidden": false,
+        "question": "Public group chat link",
+        "questionId": 1
+      },
+      {
+        "type": "paragraph",
+        "answer": "I can't give you a link of my twitter nor image of our growth here, but we started from 0 follower like most of everyone, but we gain almost 30k impression in just a month, 140+ legit followers on X, and more. I am not one of those who pay a service to gain followers. I walk the talk, I don't want to tell people, \"hey I'm honest, trust me\", because I rather build first before they allow us to be trusted. As you see, I launch my NFT without the help of any promotion from Big companies, I am at 32% completion rate, not bad for 2 weeks mint. I did it because I want them to try us, buy 1 and try to stake it using our staking app. This week, I am also launching my SaleQuid Mrkt, for them to trade NFTs & SQUID, and temporarily swap their SQUID to a tradeable token, just for them to get a glimpse of what we can do, and what we will do more.",
+        "hidden": true,
+        "question": "What have your project's key user metrics been since launch (DAU, WAU, MAU)? Please provide verifiable data showing growth trends.",
+        "questionId": 2
+      },
+      {
+        "type": "paragraph",
+        "answer": "https://seitrace.com/address/0x2ce6EFBEa3a63ea8b17CEa369f416c9668e86e24?chain=pacific-1",
+        "hidden": true,
+        "question": "Share your project's total transaction volume and unique wallet interactions since the launch of Sei V2.",
+        "questionId": 3
+      },
+      {
+        "type": "paragraph",
+        "answer": "Hi! I just started campaigning my project for 1 month and a week. We all know, getting X attention is hard but I was able to manage to gain 140+ legit followers, and with almost 30k impression. With the funding, it will help me to gather more people since our project is a community-driven, we ask people of what they want our project to achieve aside from our own project.",
+        "hidden": true,
+        "question": "How many new users have your project brought to the Sei ecosystem? Describe your user acquisition methods and provide metrics.",
+        "questionId": 4
+      },
+      {
+        "type": "paragraph",
+        "answer": "I made a Creator partnership with few people, and few projects. I have been with Sei for a long time, and decided to build last November 2024, after seeing that there is something I can do for the community and the ecosystem. I collaborated with ZombSeis, @alphaodus, previous project who went to explore another chain, Tauk OG, and a lot more. They have helped me be seen and after that people started to follow and started to gain trust thru building our stake.seiquid.xyz for our NFT, and more in the future.",
+        "hidden": true,
+        "question": "Detail any integrations or partnerships with other Sei ecosystem projects and their measurable impact.",
+        "questionId": 5
+      },
+      {
+        "type": "paragraph",
+        "answer": "Our goal is to reward users using our ERC20 token, $SQUID. I signed a contract with @Victus_Capital, and they are also helping me in a way of making a good governance to my goals/project. I also created my own Marketplace where people can buy NFTs using $SQUID token, and trade it if they want to earn SQUID. People loves to be recognized for their loyalty, and so giving them the opportunity to earn and learn is a benefit for them to treasure.",
+        "hidden": true,
+        "question": "What differentiates your project from similar solutions in the ecosystem? How does it enhance the user experience on Sei?",
+        "questionId": 6
+      },
+      {
+        "type": "paragraph",
+        "answer": "1st, aside from gathering people, you need them to stay. How? Allowing them to grow with us, making both of the project & users the beneficiaries. Examples are, allowing them to be heard, allowing them to be seen, allowing them to utilize our project that may allow them to earn, allowing them to learn in a way that they could be a builder in the future, how to start, how to keep calm and remain. 2nd, our utilities are earning utilities, who would not stay if they know they are making profit? Not just a promise, but we do the talk, Sei Less, Do more as they say. There are more things we can do, and the dream to make a name in the industry would also matter, because if you got a name, people will start to engage with you, and with your knowledge and skill, if they need a help or amp for their plans, you can add input, or even give a great advice.",
+        "hidden": true,
+        "question": "Highlight 1-3 key initiatives your team believes have had the most significant impact on the Sei ecosystem and that you’d like voters to consider. Include relevant metrics, links, or supporting data to provide an informed view of how your efforts have contributed to the ecosystem’s growth. ",
+        "questionId": 7
+      },
+      {
+        "type": "checkbox",
+        "answer": [
+          "Yes"
+        ],
+        "hidden": true,
+        "question": "Please confirm that you have read and agree to comply with the ethical standards outlined in the eligibility criteria.",
+        "questionId": 8
+      },
+      {
+        "type": "paragraph",
+        "answer": "I am new, yes, I have been with Sei and other chain. Why I chose Sei? I like how fast it is, that's first, second, I like how cheap the fees are, 3rd the community. Some of the devs denied us but I totally understand, I'm a newbie. But there are also people who are willing to take risks just to give me a chance. I don't put hate to those who did not help me, I am not their obligation, but once I am able to grow bigger, my goal is to help newbies too. Just want to add DYOR notice promotion per se. Everyone started from scratch, trust is hard to gain nowadays, but if no one is going to give even a little trust to someone new asking for help, how are you be able to say you are a successful person because you made it by yourself, if you don't have the heart to share the gift of knowledge and gift of trust to someone who needs to be heard? A community will grow, someone will be a user, someone will be a builder, but if you inspired someone to do something like you did, bring them up, let them be heard, that is one of our main goals. It might be risky if you don't let the people know DYOR, but getting to know the person first very well would let your gut say, \"I will help you don't worry\". Anyway, have a good day!",
+        "hidden": true,
+        "question": "Is there anything else you'd like to share about your project that may help determine eligibility?",
+        "questionId": 9
+      }
+    ]
+  },
+  {
+    "id": "10",
+    "projectId": "0x2e5079ce2e9bfe17928b203a9442c035bef93a921200512e0f482ddd629c7503",
+    "status": "PENDING",
+    "name": "Outlined Mind Products",
+    "website": "https://outlinedmind.com",
+    "anchorAddress": "0x462195c8b52a0603d70db268fae13c17871351fa",
+    "recipient": "0x142c10125618D91C8281B26d1e04B620fb09d4D3",
+    "fund_link": "https://explorer.gitcoin.co/#/round/1329/9/10",
+    "answers": [
+      {
+        "type": "short-answer",
+        "answer": "OutlinedMind",
+        "hidden": true,
+        "question": "Telegram Handle for Contact",
+        "questionId": 0
+      },
+      {
+        "type": "short-answer",
+        "hidden": false,
+        "question": "Public group chat link",
+        "questionId": 1
+      },
+      {
+        "type": "paragraph",
+        "answer": "Around 90-100 monthly active users as checked from Magic Eden analytics",
+        "hidden": true,
+        "question": "What have your project's key user metrics been since launch (DAU, WAU, MAU)? Please provide verifiable data showing growth trends.",
+        "questionId": 2
+      },
+      {
+        "type": "paragraph",
+        "answer": "Total transaction volume since the launch of SEI V2 is 100.000 SEI and 500 unique wallet imteractions",
+        "hidden": true,
+        "question": "Share your project's total transaction volume and unique wallet interactions since the launch of Sei V2.",
+        "questionId": 3
+      },
+      {
+        "type": "paragraph",
+        "answer": "Over 2000 users. From the day where 3999 nfts were minted till this day where people still trade our Outlines NFT’s",
+        "hidden": true,
+        "question": "How many new users have your project brought to the Sei ecosystem? Describe your user acquisition methods and provide metrics.",
+        "questionId": 4
+      },
+      {
+        "type": "paragraph",
+        "answer": "None. Currently working on a collaboration with a DeSci SEI Project where we will be Combining art and science.",
+        "hidden": true,
+        "question": "Detail any integrations or partnerships with other Sei ecosystem projects and their measurable impact.",
+        "questionId": 5
+      },
+      {
+        "type": "paragraph",
+        "answer": "It provides the first virtual gallery website that offers like a book shelf of Outlined Mind SEI exclusive entertaining products which you are able to get only through a SEI transation and contribute to the Ecosystem by collecting unique and limited edition products on the SEI network.",
+        "hidden": true,
+        "question": "What differentiates your project from similar solutions in the ecosystem? How does it enhance the user experience on Sei?",
+        "questionId": 6
+      },
+      {
+        "type": "paragraph",
+        "answer": "Outlines NFT’s managed to be in the Top 10 NFT Projects by transactions on Pallet Exchange and till today on Magic Eden! \nBesides that, Outlines NFT’s are the first fully animated NFT Project on SEI and one of the only projects designed by a web2 world wide known contemporary artist Outlined Mind \n\n1. Offering our holders to Burn NFT’s in exchange to get a 1/1 physical print of such NFT, in such way the total quantity of Outlines NFT’s is decreasing on the market.\n\n2. Proudction and giveaway of 250 Outlines Care package products (Movie Poster Size with SEI QR code available to scan, Promotional Outlines branded Stickers)\n\n3. 12 monthly collectible digital card airdrops for the ones who didn’t list their Outlines NFT \nBy holding all 12, there will be a big raffle this year where thise cards act as an entry ticket\n\n5 cards from that collection can be used to claim the First physical Action figure on SEI this year (The Outlined Mind Medieval Knight)",
+        "hidden": true,
+        "question": "Highlight 1-3 key initiatives your team believes have had the most significant impact on the Sei ecosystem and that you’d like voters to consider. Include relevant metrics, links, or supporting data to provide an informed view of how your efforts have contributed to the ecosystem’s growth. ",
+        "questionId": 7
+      },
+      {
+        "type": "checkbox",
+        "answer": [
+          "Yes"
+        ],
+        "hidden": true,
+        "question": "Please confirm that you have read and agree to comply with the ethical standards outlined in the eligibility criteria.",
+        "questionId": 8
+      },
+      {
+        "type": "paragraph",
+        "answer": "As the artist of Outlines NFT project, we are consantly pushing boundaries to release cool products for our holders and for the newcomers, so the Outlined Mind products is the direct connection to the Outlines NFT project where in the few months the demand for such products has significally increased and therefore this is a way for us to keep building the Outlines / Outlined Mind brand and to bring more people to SEI, especially the art collectors and the ones who love things like we do! Every product here is made with love and passion and we have a proof as the year 2024 was a year of producing few anazing products, great branding and promoting the SEI Ecosytem through our 250 posters with a SEI QR code which were shipped literally all around the world!\n\nSame applies to this project and these products. With an intention to show people how cool SEI is and what can be made and achieved in such fast and great energy space!",
+        "hidden": true,
+        "question": "Is there anything else you'd like to share about your project that may help determine eligibility?",
+        "questionId": 9
+      }
+    ]
+  },
+  {
+    "id": "11",
+    "projectId": "0xc6f4100635e01e12632296e25fb053253c84e0ef741d60b6838772adcff3636f",
+    "status": "PENDING",
+    "name": "CHIPS",
+    "website": "https://x.com/chipsfk",
+    "anchorAddress": "0x95dc37428132d57f575b859e1efb8695cfc13d31",
+    "recipient": "0x185E7Faf7B3191e523A8fAbD09bf0Cc73Db4c652",
+    "fund_link": "https://explorer.gitcoin.co/#/round/1329/9/11",
+    "answers": [
+      {
+        "type": "short-answer",
+        "answer": "@chipsfk",
+        "hidden": true,
+        "question": "Telegram Handle for Contact",
+        "questionId": 0
+      },
+      {
+        "type": "short-answer",
+        "hidden": false,
+        "question": "Public group chat link",
+        "questionId": 1
+      },
+      {
+        "type": "paragraph",
+        "answer": "275 Unique Players\n1835 Total Txns\n\nAll dApp metrics are broken down in the link below\nhttps://cappy-analytics.vercel.app/",
+        "hidden": true,
+        "question": "What have your project's key user metrics been since launch (DAU, WAU, MAU)? Please provide verifiable data showing growth trends.",
+        "questionId": 2
+      },
+      {
+        "type": "paragraph",
+        "answer": "BattleChips Volume:\n94.1m $CHIPS\n2.8m $GONAD\n3.2m $WAIT\n46 $TRUMP\n\nChips Trust Vault Volume:\n281m $CHIPS\n\nChipsPromotion Auctions Volume:\n3.5k $SEI\n\n\nAll dApp metrics are broken down in the link below\nhttps://cappy-analytics.vercel.app/",
+        "hidden": true,
+        "question": "Share your project's total transaction volume and unique wallet interactions since the launch of Sei V2.",
+        "questionId": 3
+      },
+      {
+        "type": "paragraph",
+        "answer": "All dApp metrics are broken down in the link below\nhttps://cappy-analytics.vercel.app/",
+        "hidden": true,
+        "question": "How many new users have your project brought to the Sei ecosystem? Describe your user acquisition methods and provide metrics.",
+        "questionId": 4
+      },
+      {
+        "type": "paragraph",
+        "answer": "Our LootBoxes allowed for various well-known projects across SEI to come together by donating assets to our prize pool for the Sei Community to partake in. Our BattleChips platform has integrated other popular Sei memecoins like $GONAD, $WAIT and $TRUMP, with more to come. Our Chips Promotions Auction site has run auctions supporting CappysNFT, MoozNFT, Jessica Jyatrofsky with more to come.\n\nOur Chips Promotions was utilized to auction a creators item, with 25% of proceeds going towards the creators gitcoin fund. The 25% donation equated to an estimated $350 contribution.",
+        "hidden": true,
+        "question": "Detail any integrations or partnerships with other Sei ecosystem projects and their measurable impact.",
+        "questionId": 5
+      },
+      {
+        "type": "paragraph",
+        "answer": "Our dApps are unique in the sense that there are no other products that offer a similar experience or opportunity.\nOur BattleChips platform allows users to play games against random holders and offers the chance to win more memecoins. Our Chips Promotions auction site allows users and artists to monetize their unique on-chain assets via a fun, interactive auction process. Our Chips Trust vault offers an opportunity for holders to demonstrate their trust in the CHIPS team while offering those who lock their tokens unique incentives within the CHIPS project. Our LootBoxes provided a fun opportunity for builders across Sei Network to come together, offering their assets up to various community members. ",
+        "hidden": true,
+        "question": "What differentiates your project from similar solutions in the ecosystem? How does it enhance the user experience on Sei?",
+        "questionId": 6
+      },
+      {
+        "type": "paragraph",
+        "answer": "In every CHIPS dApp we create, we look for ways to incorporate other Sei ecosystem projects or activities. This isn't always possible, but our track record speaks for itself: \nOur BattleChips platform has been highlighted multiple times via S3 and Fuckers LiveStreams. Crossover and Mr. Greenity have also hosted a Live Stream event for BattleChips with $GONAD integrated.\nWith BattleChips, we initially implemented a Sei built VRF but high volume forced us to pivot to Pyth VRF in order to offer sustained performance and a reliable experience to our users.\nOur CC Loot Boxes was a successful initiative with many users recieving FREE NFTs to burn to real, on-chain assets.\n\nBattleChips has seen a volume of: \nChipsPromotions Volume:\n\nOur Chips Trust Vault has over 280m tokens locked, equating to 30% of the circulating supply and showing strong support and belief from our holders while signaling long term faith to our community.\n\nLinks to each dApp:\nChipsPromotions Auction - https://chipspromotions.xyz\n\nChipsTrust Vault - https://chipstrust.xyz\n\nCC Loot Boxes - https://cclootboxes.xyz\n\nBattleChips - https://battlechips.xyz",
+        "hidden": true,
+        "question": "Highlight 1-3 key initiatives your team believes have had the most significant impact on the Sei ecosystem and that you’d like voters to consider. Include relevant metrics, links, or supporting data to provide an informed view of how your efforts have contributed to the ecosystem’s growth. ",
+        "questionId": 7
+      },
+      {
+        "type": "checkbox",
+        "answer": [
+          "Yes"
+        ],
+        "hidden": true,
+        "question": "Please confirm that you have read and agree to comply with the ethical standards outlined in the eligibility criteria.",
+        "questionId": 8
+      },
+      {
+        "type": "paragraph",
+        "answer": "Our dApps have proven useful to the Sei Community over the course of time and our team has stayed committed to building on Sei at a time when many were looking elsewhere.\nOur products always aim to incorporate other builders on Sei however possible. \n\nIt is our mission to be one of, if not the most consistent projects on Sei. This funding would further empower us to accomplish this goal.\n\nLinks to each dApp:\nChipsPromotions Auction - https://chipspromotions.xyz\n\nChipsTrust Vault - https://chipstrust.xyz\n\nCC Loot Boxes - https://cclootboxes.xyz\n\nBattleChips - https://battlechips.xyz",
+        "hidden": true,
+        "question": "Is there anything else you'd like to share about your project that may help determine eligibility?",
+        "questionId": 9
+      }
+    ]
+  },
+  {
+    "id": "12",
+    "projectId": "0x21da4dbf0d68bbdc9fced1a8d817209da416ec5fcb662906621b9967c2b8ef17",
+    "status": "PENDING",
+    "name": "Wild West Shooting",
+    "website": "https://www.mokoko.vip/",
+    "anchorAddress": "0x1dfda4e06e97d53890098e481296b1a2be62eeb7",
+    "recipient": "0x137A74AA0FCDb7a096375A0CBDB6088aE7805dd7",
+    "fund_link": "https://explorer.gitcoin.co/#/round/1329/9/12",
+    "answers": [
+      {
+        "type": "short-answer",
+        "answer": "https://t.me/ANDID123",
+        "hidden": true,
+        "question": "Telegram Handle for Contact",
+        "questionId": 0
+      },
+      {
+        "type": "short-answer",
+        "answer": "https://t.me/WildWestShootingOFL",
+        "hidden": false,
+        "question": "Public group chat link",
+        "questionId": 1
+      },
+      {
+        "type": "paragraph",
+        "answer": "DAU on Sei: 11580\nWAU on SEI: 12770\nMAU: Over 30,000\n\nhttps://dappradar.com/dapp/wild-west-shooting?range-ds=7d\nhttps://t.me/WildWestShootingBot",
+        "hidden": true,
+        "question": "What have your project's key user metrics been since launch (DAU, WAU, MAU)? Please provide verifiable data showing growth trends.",
+        "questionId": 2
+      },
+      {
+        "type": "paragraph",
+        "answer": "Incoming Txs: 170000\nUAW: 20000",
+        "hidden": true,
+        "question": "Share your project's total transaction volume and unique wallet interactions since the launch of Sei V2.",
+        "questionId": 3
+      },
+      {
+        "type": "paragraph",
+        "answer": "Since our launch, we have added 100,000 new users, among which more than 20,000 are new users brought to Sei. Through collaborating with other partners on traffic acquisition and planning activities deeply related to Sei, we have successfully acquired users and guided them to integrate into the Sei ecosystem.",
+        "hidden": true,
+        "question": "How many new users have your project brought to the Sei ecosystem? Describe your user acquisition methods and provide metrics.",
+        "questionId": 4
+      },
+      {
+        "type": "paragraph",
+        "answer": "We have reached a wallet integration cooperation with STAVX. Through technical docking, the functions of the Sei wallet are integrated into the STAVX platform. This measure has significantly expanded the user coverage and market influence of the Sei wallet. We have successfully guided some STAVX users to start using the Sei wallet, effectively enhancing the activity of the Sei wallet in the ecosystem. At the same time, we are actively carrying out traffic cooperation with multiple Sei ecosystem projects. Through resource sharing, cross - promotion and other means, we have achieved the exchange and growth of user traffic. These collaborations have not only brought considerable user growth to ourselves, but also injected new vitality into the cooperative projects, strongly promoting the prosperity and development of the entire Sei ecosystem.",
+        "hidden": true,
+        "question": "Detail any integrations or partnerships with other Sei ecosystem projects and their measurable impact.",
+        "questionId": 5
+      },
+      {
+        "type": "paragraph",
+        "answer": "We focus on creating a diverse range of game projects that are deeply integrated with the Sei ecosystem, the result of our close cooperation with Sei. Compared with other similar solutions in the ecosystem, we have unique advantages. Through continuous and intensive brand exposure campaigns, as well as a series of well - planned interactive experience activities centered around Sei, we have successfully permeated the concepts and values of the Sei ecosystem throughout our project user groups in all aspects. Now, our project users have a high level of awareness of the Sei ecosystem. They are not only familiar with its operation mechanism but also recognize its unique value in the blockchain field.\n\nThis deep integration and promotion have significantly enhanced the user experience on Sei. On the one hand, we have built a convenient bridge for users, enabling them to easily and naturally access and use Sei, thus lowering the threshold for users to enter the Sei ecosystem. On the other hand, by skillfully integrating Sei's functions and applications into the game scenarios, users can truly experience the value that Sei brings during the entertainment process, such as efficient trading experiences, secure asset storage, etc. This truly enables the value of Sei to be fully realized in users' actual operations. ",
+        "hidden": true,
+        "question": "What differentiates your project from similar solutions in the ecosystem? How does it enhance the user experience on Sei?",
+        "questionId": 6
+      },
+      {
+        "type": "paragraph",
+        "answer": "Our team has implemented two key initiatives that have a significant impact on the Sei ecosystem, and we hope that voters will take these into consideration.\n\n### 1. Promote On - chain Interaction\nWe are committed to vigorously promoting on - chain interaction by optimizing smart contracts and developing diverse DApps. Since the implementation of relevant optimization measures, the average daily number of transactions on the Sei chain has increased significantly, which intuitively reflects a remarkable improvement in users' enthusiasm for participating in on - chain activities. At the same time, the monthly active user number of DApps has also increased, reaching 100,000. This not only proves the effectiveness of our efforts but also indicates that the activity level of the Sei ecosystem is constantly rising.\n\n### 2. Improve User Acquisition and Retention (UAW)\nTo enhance user acquisition and retention, we have carefully planned a series of user incentive activities, such as transaction cashbacks and invitation rewards. After the launch of these activities, the number of new user registrations increased to 100,000 within one month. In addition, this has injected a continuous stream of vitality into the Sei ecosystem.\n\nWe believe that Sei's fast transaction speed and low gas fees have great advantages in attracting game users. Our efforts in on - chain interaction, as well as user acquisition and retention, have given full play to these characteristics of Sei, creating a favorable user experience for game users. This has attracted more game users to choose and stay in the Sei ecosystem, effectively promoting the overall development of the ecosystem.",
+        "hidden": true,
+        "question": "Highlight 1-3 key initiatives your team believes have had the most significant impact on the Sei ecosystem and that you’d like voters to consider. Include relevant metrics, links, or supporting data to provide an informed view of how your efforts have contributed to the ecosystem’s growth. ",
+        "questionId": 7
+      },
+      {
+        "type": "checkbox",
+        "answer": [
+          "Yes"
+        ],
+        "hidden": true,
+        "question": "Please confirm that you have read and agree to comply with the ethical standards outlined in the eligibility criteria.",
+        "questionId": 8
+      },
+      {
+        "type": "paragraph",
+        "answer": "Our team takes pride in creating multiple game projects of considerable scale, each boasting a user base of over 100,000. These games do not exist in isolation; instead, they are deeply integrated with the Sei ecosystem. From the underlying architecture to every aspect of the user experience, they are designed closely around the characteristics and advantages of the Sei ecosystem.\n\nMoreover, our commitment and investment in the Sei ecosystem go far beyond this. In our future plans, we have formulated a detailed roadmap to continuously develop a series of brand - new projects that are highly compatible with the Sei ecosystem. These new projects will not only build on our past success but also achieve breakthroughs in technological innovation, user experience enhancement, and ecosystem expansion.\n\nWe firmly believe that through close cooperation and joint development with the Sei ecosystem, we can bring a continuous stream of vitality and value to the entire ecosystem. We look forward to leveraging the powerful capabilities of the Sei ecosystem to co - write a new chapter in the blockchain field. At the same time, we hope that with our efforts and potential, we can obtain the qualification to participate in this event and contribute more to the prosperity of the Sei ecosystem. ",
+        "hidden": true,
+        "question": "Is there anything else you'd like to share about your project that may help determine eligibility?",
+        "questionId": 9
+      }
+    ]
+  },
+  {
+    "id": "13",
+    "projectId": "0x8d8fa3ae428e9017b5566fc701230c338175166cfd8b9e9b2080f16fddec90a4",
+    "status": "PENDING",
+    "name": "Synnax",
+    "website": "https://synnax.fi",
+    "anchorAddress": "0x0824fc87426047818f0325db1583f52b6e67e267",
+    "recipient": "0x59909E395b8428fC285915109236cab207E543Fa",
+    "fund_link": "https://explorer.gitcoin.co/#/round/1329/9/13",
+    "answers": [
+      {
+        "type": "short-answer",
+        "answer": "@eugenesfi",
+        "hidden": true,
+        "question": "Telegram Handle for Contact",
+        "questionId": 0
+      },
+      {
+        "type": "short-answer",
+        "hidden": false,
+        "question": "Public group chat link",
+        "questionId": 1
+      },
+      {
+        "type": "paragraph",
+        "answer": "1.2k MAU (in GA, not public) , 130 unique holders - https://seitrace.com/token/0x059A6b0bA116c63191182a0956cF697d0d2213eC?chain=pacific-1 ",
+        "hidden": true,
+        "question": "What have your project's key user metrics been since launch (DAU, WAU, MAU)? Please provide verifiable data showing growth trends.",
+        "questionId": 2
+      },
+      {
+        "type": "paragraph",
+        "answer": "https://seitrace.com/token/0x059A6b0bA116c63191182a0956cF697d0d2213eC?chain=pacific-1 - 86k transactions \nsyUSD mint and burn volumes https://seitrace.com/token/0x059A6b0bA116c63191182a0956cF697d0d2213eC?chain=pacific-1",
+        "hidden": true,
+        "question": "Share your project's total transaction volume and unique wallet interactions since the launch of Sei V2.",
+        "questionId": 3
+      },
+      {
+        "type": "paragraph",
+        "answer": "Synnax is a new and growing stablecoin protocol, and our focus has been on building a strong foundation before scaling aggressively. Since launch, we’ve acquired:\n\t•\t1,000–2,000 monthly active users, including both on-chain and off-chain participants.\n\t•\t150+ unique on-chain users interacting with the protocol.\n\nUser Acquisition Methods:\n\t•\tInnovative Features:\n\t•\tDeveloped an AI abstraction layer that simplifies user onboarding, allowing seamless swaps, portfolio analysis, and deposits within the ecosystem.\n\t•\tLaunched Looping & Leverage Features, enabling users to multiply their rewards through recursive borrowing strategies.\n\t•\tStrategic Partnerships & Hackathons:\n\t•\tParticipated in ecosystem hackathons to gain exposure and acquire engaged early adopters.\n\t•\tIntegrated with DEXs & DeFi protocols to expand liquidity and usage.\n\t•\tMarketing & Growth Plans:\n\t•\tEngaging in community partnerships to drive adoption.\n\t•\tRunning social media promotions & endorsements to attract more organic users.",
+        "hidden": true,
+        "question": "How many new users have your project brought to the Sei ecosystem? Describe your user acquisition methods and provide metrics.",
+        "questionId": 4
+      },
+      {
+        "type": "paragraph",
+        "answer": "\tDEX Integrations:\n\t•\tJellyverse & DragonSwap – Users can trade, provide liquidity, and leverage/loop their assets directly through our integrations.\n\t•\tCarbon DeFi (by Bancor) – Running arbitrage bots to improve liquidity efficiency.\n\t•\tMoney Market & Lending:\n\t•\tPartnering with YEI Protocol to enable Synnax stablecoin lending and enhance cross-protocol functionality.\n\nMeasurable Impact:\n\t•\t$200K+ TVL acquired through DEX partnerships, increasing trading volume and liquidity on Sei.\n\t•\tEnabling arbitrage efficiency & lending capabilities, creating deeper financial infrastructure for the ecosystem.\n\nUpcoming integrations will further expand stablecoin use cases in consumer-facing applications across Sei.",
+        "hidden": true,
+        "question": "Detail any integrations or partnerships with other Sei ecosystem projects and their measurable impact.",
+        "questionId": 5
+      },
+      {
+        "type": "paragraph",
+        "answer": "\t1.\tMarket Maker-Powered Yield\n\t•\tUnlike other stablecoins, Synnax generates yield through basis trade arbitrage rather than funding rate-dependent returns (e.g., Ethena).\n\t•\tThis provides consistent returns, unaffected by market uptrends or downturns.\n\t2.\tNative Asset Collateralization\n\t•\tUsers retain full ownership of their native Sei assets while minting stablecoins, allowing seamless redemption at any time.\n\t3.\tFirst-Mover Advantage on Sei\n\t•\tSynnax is the first stablecoin on Sei utilizing basis trade yield, providing a more resilient alternative to delta-neutral models.\n",
+        "hidden": true,
+        "question": "What differentiates your project from similar solutions in the ecosystem? How does it enhance the user experience on Sei?",
+        "questionId": 6
+      },
+      {
+        "type": "paragraph",
+        "answer": "Top 3 Impactful Initiatives:\n\t1.\tAI Abstraction Layer for Sei\n\t•\tBuilt an AI-driven portfolio & yield analysis tool, helping users discover, swap, and optimize their assets on Sei.\n\t•\tDeveloped during the Cookie Dai Hackathon, now being integrated into Synnax for wider adoption.\n\t2.\tFirst Interest-Free Looping Protocol\n\t•\tAllows users to leverage yield-bearing assets by recursively borrowing syUSD without additional interest costs.\n\t•\tUnlike competitors (e.g., YEI Protocol), we provide free looping, making yield optimization more efficient and accessible.\n\t3.\tPioneering Basis Trade Yield for Sei\n\t•\tIntroducing Sei’s first stablecoin powered by basis trade, unlocking a consistent yield stream \n4) Expanding collateral options to include LP tokens, enabling liquidity providers to mint syUSD while still earning LP fees.",
+        "hidden": true,
+        "question": "Highlight 1-3 key initiatives your team believes have had the most significant impact on the Sei ecosystem and that you’d like voters to consider. Include relevant metrics, links, or supporting data to provide an informed view of how your efforts have contributed to the ecosystem’s growth. ",
+        "questionId": 7
+      },
+      {
+        "type": "checkbox",
+        "answer": [
+          "Yes"
+        ],
+        "hidden": true,
+        "question": "Please confirm that you have read and agree to comply with the ethical standards outlined in the eligibility criteria.",
+        "questionId": 8
+      },
+      {
+        "type": "paragraph",
+        "hidden": true,
+        "question": "Is there anything else you'd like to share about your project that may help determine eligibility?",
+        "questionId": 9
+      }
+    ]
+  },
+  {
+    "id": "14",
+    "projectId": "0x2d8e8d90c69587885e641fde63bc03fa963f80c48b475cd2aab217b399efc0a7",
+    "status": "PENDING",
+    "name": "Illuminating stars",
+    "website": "https://twitter.com/starsonsei_",
+    "anchorAddress": "0xb4592b5f9482e6698bf578807b47420fb6a91fce",
+    "recipient": "0xacebaa80a248565acfdda3330a873fbf18b54280",
+    "fund_link": "https://explorer.gitcoin.co/#/round/1329/9/14",
+    "answers": [
+      {
+        "type": "short-answer",
+        "answer": "@illuminatoor",
+        "hidden": true,
+        "question": "Telegram Handle for Contact",
+        "questionId": 0
+      },
+      {
+        "type": "short-answer",
+        "answer": "https://discord.gg/hCuyr2Rwnr",
+        "hidden": false,
+        "question": "Public group chat link",
+        "questionId": 1
+      },
+      {
+        "type": "paragraph",
+        "answer": "Since launch, our community and engagement have seen steady growth:\n\n\n\nTwitter Growth: Our Twitter following has grown to 6.7k+, with an audience that is highly engaged and focused exclusively on Sei. On average, our tweets mentioning Sei receive ~1k impressions, reflecting strong organic reach.\n\n\nCollection Activity: Our collection was deployed successfully and has since attracted 210+ organic active holders.\n\n\nTrading Volume: We’ve recorded 1.5k Sei in total trading volume on our previous marketplace, Pallet Exchange.\n\n\nThese metrics highlight our organic growth, community engagement, and ecosystem impact within Sei.",
+        "hidden": true,
+        "question": "What have your project's key user metrics been since launch (DAU, WAU, MAU)? Please provide verifiable data showing growth trends.",
+        "questionId": 2
+      },
+      {
+        "type": "paragraph",
+        "answer": "https://seitrace.com/address/0x66f67b74410a5c3493A8784108e2BbCC91F02DF7?chain=pacific-1",
+        "hidden": true,
+        "question": "Share your project's total transaction volume and unique wallet interactions since the launch of Sei V2.",
+        "questionId": 3
+      },
+      {
+        "type": "paragraph",
+        "answer": "User Acquisition & Growth in the Sei Ecosystem\n\n\nTwitter: https://twitter.com/starsonsei_\n\n\nSince launch, we’ve played a key role in onboarding new users into the Sei ecosystem through organic engagement and targeted outreach. Here’s an overview of our impact:\n\nNew Users Brought to Sei: Based on our 6.7k+ Twitter followers, 200+ active NFT holders, and a growing Discord community, we estimate that we have directly introduced 300-500 new users to the Sei ecosystem.\n\nEngagement & Acquisition Methods:\nTwitter Outreach: With a strong focus on Sei evangelism, our tweets mentioning Sei receive ~1k impressions on average, drawing in new users.\nDiscord Community: While our Discord has 600+ members, only a portion is actively engaged, contributing to discussions and onboarding newcomers.\n\nOrganic NFT Adoption: Our collection has 200+ active holders and has generated 1.5k Sei in trading volume on Pallet Exchange, further solidifying our presence.\n\nConsidering engagement levels across different platforms, we conservatively estimate 300-500 new users have been introduced to Sei through our project.\n",
+        "hidden": true,
+        "question": "How many new users have your project brought to the Sei ecosystem? Describe your user acquisition methods and provide metrics.",
+        "questionId": 4
+      },
+      {
+        "type": "paragraph",
+        "answer": "Integrations & Partnerships Within the Sei Ecosystem\n\nWe’ve been working hand-in-hand with other projects in the Sei ecosystem—NFT collections, meme coins, and other infrastructure builders to grow the community and bring more people into the space.\n\nHow Our Partnerships Have Made an Impact\nLaunch with Orbiters NFT: We partnered with Orbiters NFT, using their launchpad to introduce our collection to a wider audience. Since they were already well-known on Sei, this collaboration helped bring in new users and increased engagement within the ecosystem.\n\nCollaboration with S3 Labs: We’ve also teamed up with S3 Labs, leveraging their expertise to strengthen our infrastructure and enhance the overall user experience.\n\nCross-Community Collaborations: By working with meme coin projects and other NFT collections, we’ve created exciting opportunities for different communities to connect, discover new projects, and dive deeper into Sei.\n\nThrough these partnerships, we’re not just building a project, we’re helping grow an entire ecosystem, bringing in new users, increasing engagement, and making Sei a stronger, more connected space.",
+        "hidden": true,
+        "question": "Detail any integrations or partnerships with other Sei ecosystem projects and their measurable impact.",
+        "questionId": 5
+      },
+      {
+        "type": "paragraph",
+        "answer": "What Makes Us Different & How We Enhance the Sei Experience\nAt our core, we’re not just another project, we’re a story-driven movement that blends art, community, and blockchain innovation in a way that hasn’t been done before on Sei. Here’s what sets us apart:\n\nA Unique Narrative Experience, unlike other projects, we bring storytelling to the blockchain. Our journey isn’t just about NFTs or transactions; it’s about immersing users in an unfolding saga, making their engagement feel meaningful and connected.\n\nStrong Community Ties: We’re not just building a project; we’re building a home within Sei. From our collaborations with meme coin projects and NFT collections to our work with S3 Labs, we actively create bridges between communities, making Sei more vibrant and interconnected.\n\nReal Engagement, Not Just Hype, while many projects focus on short-term hype, we prioritize long-term value real adoption, real community growth, and real user experiences that keep people coming back.\n\nHow We Enhance the Sei Experience\nWe make Sei more than just a blockchain, we make it a place where people belong. Through interactive storytelling, collaborations, and partnerships and further engagement, we help onboard new users, spark curiosity, and keep the ecosystem thriving.",
+        "hidden": true,
+        "question": "What differentiates your project from similar solutions in the ecosystem? How does it enhance the user experience on Sei?",
+        "questionId": 6
+      },
+      {
+        "type": "paragraph",
+        "answer": "Key Initiatives Driving Our Impact on Sei\n\nWe’ve been actively growing the Sei ecosystem through real engagement, partnerships, and adoption efforts. Here are three key initiatives that have made the biggest impact:\n\n1. Launching with Orbiters NFT\nPartnered with Orbiters NFT to launch on their Sei-native launchpad, tapping into their established community.\nHelped onboard new users and contributed 1.5k Sei in trading volume on Pallet Exchange.\n\n2. Building a Strong & Engaged Community\nGrew to 6.7k+ Twitter followers, consistently promoting Sei with tweets averaging 1k impressions.\nEstablished a 600+ member Discord, fostering discussions and onboarding newcomers.\n\n3. Expanding Through Strategic Partnerships\nCollaborated with meme coin projects, NFT collections, other projects/daos, creating stronger connections within Sei.\nHelped onboard an estimated 300-500 new users into the ecosystem.\n\nThrough these efforts, we’re not just building a project, we’re helping Sei grow and thrive.\n\nSee our twitter with over 1.2k posts talking about sei via https://twitter.com/starsonsei_\n\nOur discord:  https://discord.com/invite/hCuyr2Rwnr\n\n\nSecondary marketplace: https://magiceden.io/collections/sei/0x66f67b74410a5c3493a8784108e2bbcc91f02df7 (Since pallet no longer functions... ATM)",
+        "hidden": true,
+        "question": "Highlight 1-3 key initiatives your team believes have had the most significant impact on the Sei ecosystem and that you’d like voters to consider. Include relevant metrics, links, or supporting data to provide an informed view of how your efforts have contributed to the ecosystem’s growth. ",
+        "questionId": 7
+      },
+      {
+        "type": "checkbox",
+        "answer": [
+          "Yes"
+        ],
+        "hidden": true,
+        "question": "Please confirm that you have read and agree to comply with the ethical standards outlined in the eligibility criteria.",
+        "questionId": 8
+      },
+      {
+        "type": "paragraph",
+        "answer": "We’ve been actively building on Sei, from launching with Orbiters NFT to growing an engaged 6.7k+ Twitter community dedicated to Sei. With 200+ active holders, 1.5k Sei in trading volume, and key partnerships, we are bringing real adoption.",
+        "hidden": true,
+        "question": "Is there anything else you'd like to share about your project that may help determine eligibility?",
+        "questionId": 9
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "projectId": "0xb2dc495667ff1a89b74758a6c99b633e9e82a8db1fa0304a83cde21d6e1da698",
+    "status": "PENDING",
+    "name": "Pit Finance",
+    "website": "https://pit.finance",
+    "anchorAddress": "0x6b7a7406c71039893645c317dc3b4de0fa113148",
+    "recipient": "0x86d9c9cfaaa6a0c61bf8632c8bd6783ee0f2d9ce",
+    "fund_link": "https://explorer.gitcoin.co/#/round/1329/9/2",
+    "answers": [
+      {
+        "type": "short-answer",
+        "answer": "spit24",
+        "hidden": true,
+        "question": "Telegram Handle for Contact",
+        "questionId": 0
+      },
+      {
+        "type": "short-answer",
+        "answer": "https://t.me/pit_finance",
+        "hidden": false,
+        "question": "Public group chat link",
+        "questionId": 1
+      },
+      {
+        "type": "paragraph",
+        "answer": "Since launch, Pit Finance has seen consistent growth in user activity, with increasing Daily Active Users (DAU), Weekly Active Users (WAU), and Monthly Active Users (MAU).\n\nCurrently, there is a total of 87,080 users who have deposited into our vaults across all vaults. A total of 324,835 transactions have been made across all vaults.",
+        "hidden": true,
+        "question": "What have your project's key user metrics been since launch (DAU, WAU, MAU)? Please provide verifiable data showing growth trends.",
+        "questionId": 2
+      },
+      {
+        "type": "paragraph",
+        "answer": "Total number of transactions: 324,835\nTotal number of wallets with a current deposit in any vault: 87,080\nPeak TVL: 28M SEI, $21M USD",
+        "hidden": true,
+        "question": "Share your project's total transaction volume and unique wallet interactions since the launch of Sei V2.",
+        "questionId": 3
+      },
+      {
+        "type": "paragraph",
+        "answer": "Pit Finance has onboarded more than 150,000 new wallets to the Sei Network through our yield optimization vaults.\n\nUser Acquisition Methods:\n\nSei-native campaigns (e.g. OKX Cryptopedia) to introduce new users. https://www.okx.com/web3/cryptopedia/event/sei\n\nPartnerships & co-marketing with Sei ecosystem projects (Yei Finance).\n\nIncentivized vaults to encourage active engagement.\n\nData on wallet registrations and first-time deposits into Pit vaults serve as verifiable metrics of new users entering the Sei ecosystem.",
+        "hidden": true,
+        "question": "How many new users have your project brought to the Sei ecosystem? Describe your user acquisition methods and provide metrics.",
+        "questionId": 4
+      },
+      {
+        "type": "paragraph",
+        "answer": "Pit Finance has partnered with Yei Finance, Sei Network’s leading lending and borrowing protocol, to enhance DeFi strategies.\n\nImpact: Users can leverage Yei's lending pools within Pit Vaults to generate higher yield.\nMeasurable Data: 28M SEI in TVL routed through Yei Finance pools via Pit strategies.\nWe continue integrating with more Sei-native protocols to optimize yield strategies and drive liquidity across the ecosystem.\n\nWe also run Sei-native campaign via OKX Cryptopedia to introduce new users to Sei ecosystem as a whole.",
+        "hidden": true,
+        "question": "Detail any integrations or partnerships with other Sei ecosystem projects and their measurable impact.",
+        "questionId": 5
+      },
+      {
+        "type": "paragraph",
+        "answer": "Pit Finance is the first yield optimizer on Sei Network, introducing a DeFi primitive that automates yield generation.\n\nKey Differentiators:\n- Sei-native yield aggregation with optimized compounding strategies.\n- Non-custodial, permissionless, and fully decentralized vault structure.\n- Instant deposits & withdrawals, ensuring users maintain full control of their assets.\n- pTOKEN system allowing users to retain and trade their vault positions seamlessly.\n\nPit Finance simplifies DeFi yield farming while maximizing efficiency, making it accessible to both new and experienced users.",
+        "hidden": true,
+        "question": "What differentiates your project from similar solutions in the ecosystem? How does it enhance the user experience on Sei?",
+        "questionId": 6
+      },
+      {
+        "type": "paragraph",
+        "answer": "1. First Yield Optimizer on Sei\nPit Finance established a critical DeFi primitive, enabling passive yield generation on Sei.\nImpact: Over $20M (at peak) TVL deposited, optimizing returns for Sei users.\n\n2. Partnership with Yei Finance\nSei-native integration between lending (Yei) and yield aggregation (Pit).\nImpact: Over $20M (at peak) routed through Yei pools via Pit strategies, increasing liquidity and utility.\n\n3. Community Growth & Incentives\nActive participation in Sei’s Cryptopedia campaign, driving onboarding & education.\nImpact: Over 150,000 new wallets onboarded to Sei Network via Pit Finance.\n\nOur goal is to expand Sei’s DeFi capabilities by building core primitives that improve capital efficiency and yield accessibility across the ecosystem.",
+        "hidden": true,
+        "question": "Highlight 1-3 key initiatives your team believes have had the most significant impact on the Sei ecosystem and that you’d like voters to consider. Include relevant metrics, links, or supporting data to provide an informed view of how your efforts have contributed to the ecosystem’s growth. ",
+        "questionId": 7
+      },
+      {
+        "type": "checkbox",
+        "answer": [
+          "Yes"
+        ],
+        "hidden": true,
+        "question": "Please confirm that you have read and agree to comply with the ethical standards outlined in the eligibility criteria.",
+        "questionId": 8
+      },
+      {
+        "type": "paragraph",
+        "hidden": true,
+        "question": "Is there anything else you'd like to share about your project that may help determine eligibility?",
+        "questionId": 9
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "projectId": "0x85d601cfa80fc75e1b6a0197aa135b15a39db60a92a5f1f3aa23b1f54f9eb0eb",
+    "status": "PENDING",
+    "name": "Booble",
+    "website": "https://booble.site",
+    "anchorAddress": "0xfc8f0f02a0f713a6b418149da3afa28dd24e5612",
+    "recipient": "0x98153b95E51B780e1FC5f5006db6d80107e7B06E",
+    "fund_link": "https://explorer.gitcoin.co/#/round/1329/9/3",
+    "answers": [
+      {
+        "type": "short-answer",
+        "answer": "@artcryptooo",
+        "hidden": true,
+        "question": "Telegram Handle for Contact",
+        "questionId": 0
+      },
+      {
+        "type": "short-answer",
+        "answer": "https://t.me/booblememes",
+        "hidden": false,
+        "question": "Public group chat link",
+        "questionId": 1
+      },
+      {
+        "type": "paragraph",
+        "answer": "We have all transactions recorded on SeiTrace within our contract.\n\nhttps://seitrace.com/token/0xF20903d034B12a7266055FE97cEBdB9199Ec6925?chain=pacific-1",
+        "hidden": true,
+        "question": "What have your project's key user metrics been since launch (DAU, WAU, MAU)? Please provide verifiable data showing growth trends.",
+        "questionId": 2
+      },
+      {
+        "type": "paragraph",
+        "answer": "we have more than 8000+ transaction since launch on sei evm with 200+ unique wallet \n\nhttps://seitrace.com/address/0xF20903d034B12a7266055FE97cEBdB9199Ec6925?chain=pacific-1",
+        "hidden": true,
+        "question": "Share your project's total transaction volume and unique wallet interactions since the launch of Sei V2.",
+        "questionId": 3
+      },
+      {
+        "type": "paragraph",
+        "answer": "We acquired new users through community events and collaborations. Many members of the Sei community shared our project with their friends in other network communities, which led them to join our community and become part of the Sei ecosystem",
+        "hidden": true,
+        "question": "How many new users have your project brought to the Sei ecosystem? Describe your user acquisition methods and provide metrics.",
+        "questionId": 4
+      },
+      {
+        "type": "paragraph",
+        "answer": "We have several collaboration partners, particularly in Booble Store. Some Sei projects have joined our store, including DragonSwap, SeiPex, SeiYan, and Tori. For our cartoon series collaboration, we are currently working with the Gonad project, and we plan to collaborate with more projects as new chapters are released. All these efforts contribute to increasing community engagement within the Sei ecosystem, as well as driving growth and boosting transaction volume on Sei.",
+        "hidden": true,
+        "question": "Detail any integrations or partnerships with other Sei ecosystem projects and their measurable impact.",
+        "questionId": 5
+      },
+      {
+        "type": "paragraph",
+        "answer": "Our project stands out from others in the Sei ecosystem. We are the first project to provide a seamless and secure way for the entire Sei community to own or purchase Sei merchandise easily. Additionally, we are the first Sei project to launch a cartoon series on YouTube, allowing us to attract new audiences beyond Twitter and Telegram. This helps introduce Booble and bring more people into the Sei ecosystem",
+        "hidden": true,
+        "question": "What differentiates your project from similar solutions in the ecosystem? How does it enhance the user experience on Sei?",
+        "questionId": 6
+      },
+      {
+        "type": "paragraph",
+        "answer": "Currently, the most significant impact we've had on the Sei ecosystem is through Booble Store. We have sold 50 items of merchandise so far. When people wear or use our merchandise in real life, they indirectly introduce Sei to others who may not have known about it. This helps raise awareness of Sei in the wider community. You can check our store at www.store.booble.com",
+        "hidden": true,
+        "question": "Highlight 1-3 key initiatives your team believes have had the most significant impact on the Sei ecosystem and that you’d like voters to consider. Include relevant metrics, links, or supporting data to provide an informed view of how your efforts have contributed to the ecosystem’s growth. ",
+        "questionId": 7
+      },
+      {
+        "type": "checkbox",
+        "answer": [
+          "Yes"
+        ],
+        "hidden": true,
+        "question": "Please confirm that you have read and agree to comply with the ethical standards outlined in the eligibility criteria.",
+        "questionId": 8
+      },
+      {
+        "type": "paragraph",
+        "hidden": true,
+        "question": "Is there anything else you'd like to share about your project that may help determine eligibility?",
+        "questionId": 9
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "projectId": "0xe0a2469df7810d2da8fa55c1c491f9b0b820d37ce1067f675134d3b61f8e924b",
+    "status": "PENDING",
+    "name": "Age of Estates",
+    "website": "https://linktr.ee/ageofestates",
+    "anchorAddress": "0x3dffa51354bc691248dc64efc5e191a62c534cc9",
+    "recipient": "0x7be7fdd346c0b4267d139935ecc7dfe1d5c180b0",
+    "fund_link": "https://explorer.gitcoin.co/#/round/1329/9/4",
+    "answers": [
+      {
+        "type": "short-answer",
+        "answer": "https://t.me/kvarax777",
+        "hidden": true,
+        "question": "Telegram Handle for Contact",
+        "questionId": 0
+      },
+      {
+        "type": "short-answer",
+        "hidden": false,
+        "question": "Public group chat link",
+        "questionId": 1
+      },
+      {
+        "type": "paragraph",
+        "answer": "Since launch, our key user metrics have been strong. As you can see from these tweets, the Sei community has been supporting and trusting us. Engagement has been steady, and we're excited to keep building!\n\nhttps://cdn.discordapp.com/attachments/1282074889179762771/1341171848750301254/image.png?ex=67b5071e&is=67b3b59e&hm=b1e66b6560fa3b271b4f0a61e14833b452051e5a4d8f57965a7e4f5abb66ae85&\n\nhttps://x.com/KvaraX77/status/1771571423196106797/photo/1\n\nhttps://x.com/ageofestates/status/1772694657727599005/photo/1",
+        "hidden": true,
+        "question": "What have your project's key user metrics been since launch (DAU, WAU, MAU)? Please provide verifiable data showing growth trends.",
+        "questionId": 2
+      },
+      {
+        "type": "paragraph",
+        "answer": "Total NFT Volume: +40,000 SEI across all collections\nProfit from Alpha Airdrops: +6,000 USD\n Smart Contracts (CA):\n\nAOE Contract: 0xA088178e6B6dbad1d848439f2996c881ED255d78\nEstates Legends Contract: 0x5114288842a5FB942338b6c38A92A8CC3B9Ec02D\nConsistent growth and strong profits from alpha strategies!",
+        "hidden": true,
+        "question": "Share your project's total transaction volume and unique wallet interactions since the launch of Sei V2.",
+        "questionId": 3
+      },
+      {
+        "type": "paragraph",
+        "answer": "I started on Solana, but after moving to SEI, a bunch of my friends jumped in on my project. They really vibed with the idea and what I’m building, which is awesome for the SEI ecosystem. A lot of them grabbed NFTs and got involved love to see it! ",
+        "hidden": true,
+        "question": "How many new users have your project brought to the Sei ecosystem? Describe your user acquisition methods and provide metrics.",
+        "questionId": 4
+      },
+      {
+        "type": "paragraph",
+        "answer": "Since launching our DAO, we’ve partnered with a solid lineup of SEI projects, giving their NFT holders access just like ours. Now they’re part of the community, vibing with us and getting in on the alpha. Big shoutout to: @SeiMutants, @DDesolationSei, @Naked_dob_DAO, @Seibstract, @pampit, and @UnfrgtnOrbit. ",
+        "hidden": true,
+        "question": "Detail any integrations or partnerships with other Sei ecosystem projects and their measurable impact.",
+        "questionId": 5
+      },
+      {
+        "type": "paragraph",
+        "answer": "Age of Estates sets itself apart in the SEI ecosystem by creating a unique DAO model that brings multiple projects together under one community. Unlike traditional NFT projects, we provide exclusive access to our DAO for partnered NFT holders, fostering deeper collaboration and engagement. \nBeyond just NFTs, we actively help our members secure airdrops and win free money through our alpha, ensuring they gain real, tangible benefits. By onboarding users from Solana and beyond, we’re not just growing our own project but also strengthening the SEI ecosystem as a whole. \nOur focus is on building a connected, rewarding experience for everyone involved.",
+        "hidden": true,
+        "question": "What differentiates your project from similar solutions in the ecosystem? How does it enhance the user experience on Sei?",
+        "questionId": 6
+      },
+      {
+        "type": "paragraph",
+        "answer": "One of the key contributors to the SEI ecosystem, KvaraX77, has been an OG member since the early days, starting with The Colony Mint & Seiyans. From that time, he has been actively involved, collaborating with multiple projects as a collab manager and advisor. His journey continued with SeiPunks, where he played a crucial role first as a manager and later as a team member.\n\nWith strong motivation and community support, he launched Age of Estates, a project that has directly impacted the SEI ecosystem in multiple ways:\n\nKey Initiatives & Impact:\n Building a Cross-Project DAO – Age of Estates introduced a unique multi-project DAO, onboarding NFT holders from various SEI projects to create a stronger, more connected ecosystem. This collaboration has increased engagement and utility for multiple communities.\n\nAlpha & Airdrop Opportunities – The project has helped members secure airdrops and earn free money, giving real financial benefits to holders. This has driven more participation in SEI-based projects.\n\nOnboarding & Growth – By leveraging experience from past projects and a strong SEI network, Age of Estates has successfully brought in new users from Solana and other chains, expanding SEI’s reach and engagement.\n",
+        "hidden": true,
+        "question": "Highlight 1-3 key initiatives your team believes have had the most significant impact on the Sei ecosystem and that you’d like voters to consider. Include relevant metrics, links, or supporting data to provide an informed view of how your efforts have contributed to the ecosystem’s growth. ",
+        "questionId": 7
+      },
+      {
+        "type": "checkbox",
+        "answer": [
+          "Yes"
+        ],
+        "hidden": true,
+        "question": "Please confirm that you have read and agree to comply with the ethical standards outlined in the eligibility criteria.",
+        "questionId": 8
+      },
+      {
+        "type": "paragraph",
+        "answer": "Yes. I want to prove to the SEI Network Team that I'm a dedicated builder with strong ambitions I just need the trust. I'm doxxed and fully committed to sharing my work with the community so they can see the scale of what I'm building. My goal is to create a **platform/dashboard** that helps members stay updated and engaged with airdrop projects, making onboarding seamless. With the right team, I’m working hard to secure funding and bring this vision to life. ",
+        "hidden": true,
+        "question": "Is there anything else you'd like to share about your project that may help determine eligibility?",
+        "questionId": 9
+      }
+    ]
+  },
+  {
+    "id": "5",
+    "projectId": "0xe18f35a2fba610cf0e5d34190762f7ba04c557f2ed5ea88c3bfdefee3a456efd",
+    "status": "PENDING",
+    "name": "matmauproject",
+    "website": "https://mau.co",
+    "anchorAddress": "0xfd25a1f38f75bfb3763e4bfb6ced8095c9d844f3",
+    "recipient": "0x1Ea7cF5440e9E842c0363b1862df3Efe2C899951",
+    "fund_link": "https://explorer.gitcoin.co/#/round/1329/9/5",
+    "answers": [
+      {
+        "type": "short-answer",
+        "answer": "@mauaua",
+        "hidden": true,
+        "question": "Telegram Handle for Contact",
+        "questionId": 0
+      },
+      {
+        "type": "short-answer",
+        "hidden": false,
+        "question": "Public group chat link",
+        "questionId": 1
+      },
+      {
+        "type": "paragraph",
+        "answer": "SeiTrade currently tracks Monthly Active Users (MAU) as a key growth metric. We utilize Sei’s blockchain explorers and analytics tools to monitor user engagement, and our reports show a steady increase in active traders. Verifiable data will be published regularly for transparency",
+        "hidden": true,
+        "question": "What have your project's key user metrics been since launch (DAU, WAU, MAU)? Please provide verifiable data showing growth trends.",
+        "questionId": 2
+      },
+      {
+        "type": "paragraph",
+        "answer": "0xea6430263c0356755a59c7138addcc773bfc17e7",
+        "hidden": true,
+        "question": "Share your project's total transaction volume and unique wallet interactions since the launch of Sei V2.",
+        "questionId": 3
+      },
+      {
+        "type": "paragraph",
+        "answer": "Planned User Acquisition Methods:\nCommunity Engagement:\n\nLaunching a Discord and Telegram community to foster engagement.\nHosting AMAs (Ask Me Anything) and educational sessions to onboard new users.\nIncentivized Campaigns:\n\nAirdrops to reward early adopters and active traders.\nTrading Competitions to attract and retain users.\nPartnerships:\n\nCollaborating with Sei Foundation and other DeFi protocols to cross-promote.\nPartnering with influencers to amplify our reach.\nMarketing & Outreach:\n\nRunning social media campaigns across Twitter and Reddit.\nPublishing thought leadership articles to attract both retail and institutional users.\nMetrics We Will Track:\nNew Users: Number of unique wallets interacting with SeiTrade.\nUser Growth Rate: Monthly growth in new wallet sign-ups.\nRetention Rate: Percentage of users returning after their first trade.\nOnce live, we will share verifiable metrics using Sei blockchain explorers and publish reports on user acquisition and engagement.",
+        "hidden": true,
+        "question": "How many new users have your project brought to the Sei ecosystem? Describe your user acquisition methods and provide metrics.",
+        "questionId": 4
+      },
+      {
+        "type": "paragraph",
+        "answer": "the project has strategically used X (formerly Twitter) to drive awareness, engagement, and user acquisition, contributing significantly to the Sei ecosystem.\n\nHow We Use X for Growth:\nMajor Announcements: Feature launches, partnerships, and updates.\nEducational Threads: Guides on SeiTrade, Sei Network, and trading strategies.\nGiveaways & Contests: Incentivizing engagement with token rewards.\nCommunity Polls & AMAs: Gathering feedback and improving user experience.\nInfluencer Collaborations: Partnering with top crypto influencers to amplify reach.\nWith X and Telegram as core channels, it continues to fuel Sei ecosystem adoption and user engagement. ",
+        "hidden": true,
+        "question": "Detail any integrations or partnerships with other Sei ecosystem projects and their measurable impact.",
+        "questionId": 5
+      },
+      {
+        "type": "paragraph",
+        "answer": "Our Project stands out within the Sei ecosystem through several unique features that enhance the user experience, making it more accessible, efficient, and rewarding for traders. Here’s how we differentiate ourselves:\n\n1. Speed and Scalability Optimized for DeFi\nSei Network's unique optimizations make our project incredibly fast, providing ultra-low latency and seamless order execution. Unlike other DeFi platforms on Ethereum or Binance Smart Chain, Sei’s architecture enables quick transaction finality and cost-efficient trading, giving users an edge in high-frequency markets.\n2. Tailored for Professional and Retail Traders\nOur project combines features usually reserved for centralized exchanges with the security and transparency of a decentralized platform. This dual approach attracts both retail traders looking for simplicity and professional traders seeking advanced features like limit orders, stop-loss functions, and market depth visualization.\n3. Liquidity Integration and Aggregation\nWe provide enhanced liquidity by integrating with other DeFi liquidity sources within the Sei ecosystem, ensuring deep liquidity even in volatile market conditions. Our liquidity aggregation technology minimizes slippage, offering users better trade execution compared to other decentralized exchanges.\n4. Seamless Onboarding & Education\nWe recognize that new users often face challenges in understanding DeFi, so our project includes a built-in educational hub on the platform. Users can easily access tutorials, FAQs, and market insights to ensure smooth onboarding, making DeFi more approachable.\n5. Transparent & Community-Centric Model\nOur platform is built with a community-first approach, ensuring transparent governance via DAO structures and regular communication with users. We incorporate user feedback into regular updates, allowing the community to have a say in how our project evolves.\n6. Integration with Sei’s Ecosystem\nBy integrating tightly with the Sei ecosystem, our project benefits from Sei’s proof-of-stake consensus, fast block times, and low transaction fees, allowing users to experience a more efficient, cheaper, and secure trading experience.\nHow It Enhances the User Experience on Sei:\nFaster Trades: With Sei’s high throughput and low latency, trading on our project is faster than on other blockchains, ensuring that users don't miss market opportunities.\nLower Fees: Thanks to Sei’s optimized architecture, our project offers minimal transaction fees, making it more affordable for users, especially those making frequent trades.\nSecurity & Transparency: Leveraging Sei’s robust infrastructure, our project ensures complete transparency in transactions, providing users with the trust and security they need for their DeFi activities.\nOur project isn't just another DeFi platform; it's built to capitalize on Sei’s strengths and optimize the trading experience for both newcomers and seasoned traders alike.",
+        "hidden": true,
+        "question": "What differentiates your project from similar solutions in the ecosystem? How does it enhance the user experience on Sei?",
+        "questionId": 6
+      },
+      {
+        "type": "paragraph",
+        "answer": "Here are the key initiatives our team believes have had the most significant impact on the Sei ecosystem:\n\n1. Community Engagement and Education\nWe’ve focused on building a strong community by providing accessible resources and engaging directly through Telegram, X (Twitter), and Discord.\n\nKey Activities: Hosted AMAs, educational campaigns, and distributed rewards to incentivize user onboarding.\n2. Integration with Sei Ecosystem for Liquidity Aggregation\nOur integration with Sei’s liquidity infrastructure has ensured better trade execution and lower slippage for users on our platform.\n\nImpact: We’ve seen an increase in daily transaction volume and contributed to improved transaction efficiency across the network.\nSupporting Data: This initiative contributed to Sei’s Total Value Locked (TVL) growth, reflecting the broader impact on the ecosystem.\n3. Onboarding and User Growth Campaigns\nOur user acquisition campaigns, including referral programs and giveaways, have directly impacted user growth within the Sei ecosystem.\n\nImpact: Onboarded thousands of new users, with many becoming regular traders.\nKey Metric: Referral links have played a significant role in bringing in new users, with many converting to active participants in the ecosystem.\nThese efforts have played a pivotal role in growing our project and the Sei ecosystem, contributing to adoption and engagement. We hope voters will consider the measurable impact of these initiatives. ",
+        "hidden": true,
+        "question": "Highlight 1-3 key initiatives your team believes have had the most significant impact on the Sei ecosystem and that you’d like voters to consider. Include relevant metrics, links, or supporting data to provide an informed view of how your efforts have contributed to the ecosystem’s growth. ",
+        "questionId": 7
+      },
+      {
+        "type": "checkbox",
+        "answer": [
+          "Yes"
+        ],
+        "hidden": true,
+        "question": "Please confirm that you have read and agree to comply with the ethical standards outlined in the eligibility criteria.",
+        "questionId": 8
+      },
+      {
+        "type": "paragraph",
+        "hidden": true,
+        "question": "Is there anything else you'd like to share about your project that may help determine eligibility?",
+        "questionId": 9
+      }
+    ]
+  },
+  {
+    "id": "6",
+    "projectId": "0x0e72dc3452159f460034650d508a235dd21bd552fcaac6e7bfff3a27e9033290",
+    "status": "PENDING",
+    "name": "Sei Punks",
+    "website": "https://magiceden.io/collections/sei/0x19227e1ae76321be426538e05f3af81eabdf3f8a?activeTab=items",
+    "anchorAddress": "0x5dfe1e5ce9eb917dd65c06ddb8fc2c2bab758b3a",
+    "recipient": "0x7be7fdd346c0b4267d139935ecc7dfe1d5c180b0",
+    "fund_link": "https://explorer.gitcoin.co/#/round/1329/9/6",
+    "answers": [
+      {
+        "type": "short-answer",
+        "answer": "@kvarax777",
+        "hidden": true,
+        "question": "Telegram Handle for Contact",
+        "questionId": 0
+      },
+      {
+        "type": "short-answer",
+        "hidden": false,
+        "question": "Public group chat link",
+        "questionId": 1
+      },
+      {
+        "type": "paragraph",
+        "answer": "Since launching in January 2024, SeiPunks has grown organically into one of the OG NFT collections on Sei Network. We started with a strong base of early Sei adopters, attracting collectors from Ethereum and Solana thanks to our unique holders and big trades. Our trading volume has already surpassed 150,000 SEI, with high-value 1/1s, Alien, and Zombie Punks making waves in the market. Engagement has been steady, with daily activity from traders, community discussions, and events like our poker party for holders. We’ve also worked on collaborations across Sei and other chains, helping us grow step by step. Our community isn’t just active it’s real, organic, and here for the long run.",
+        "hidden": true,
+        "question": "What have your project's key user metrics been since launch (DAU, WAU, MAU)? Please provide verifiable data showing growth trends.",
+        "questionId": 2
+      },
+      {
+        "type": "paragraph",
+        "answer": "Since its January 2024 launch, SeiPunks has carved out its place as a true OG collection on Sei Network, with trading volume already  surpassing 150,000 SEI. That’s not just a number it’s a testament to the strong demand, organic growth, and engaged community behind the project. From day one, we've seen unique wallets interacting with SeiPunks, not just flipping NFTs, but collecting, holding, and believing in the vision. Our biggest trades? Legendary 1/1s, Aliens, and Zombie Punks, proving that collectors value rarity and culture over just hype. Step by step, SeiPunks isn’t just growing it’s setting the tone for the future of Sei NFTs.",
+        "hidden": true,
+        "question": "Share your project's total transaction volume and unique wallet interactions since the launch of Sei V2.",
+        "questionId": 3
+      },
+      {
+        "type": "paragraph",
+        "answer": "Since its launch, SeiPunks has played a key role in bringing new users to the Sei ecosystem. A lot of these users came from Ethereum and Solana two major chains that already had a solid NFT presence. We drew in a diverse group of collectors by offering something new and fresh on Sei. Our approach wasn’t just about minting NFTs it was about building real community engagement. We got involved in cross-chain collaborations, offering opportunities that brought attention to Sei and encouraged collectors to explore what it had to offer. Through events like our poker party for holders, we built relationships and kept people interested, ensuring our users felt connected to the project and the ecosystem. While it's tough to pin down an exact number, it’s clear that SeiPunks has played a major role in onboarding new users to Sei, making it a go-to spot for NFT collectors looking for something unique.",
+        "hidden": true,
+        "question": "How many new users have your project brought to the Sei ecosystem? Describe your user acquisition methods and provide metrics.",
+        "questionId": 4
+      },
+      {
+        "type": "paragraph",
+        "answer": "On top of everything, we’ve also been delivering a ton of airdrops of memecoins to our holders on the Sei Network. This adds an extra layer of fun and value to being part of the SeiPunks community. These airdrops aren’t just about random giveaways they’re a way for us to show appreciation to our holders while also keeping the vibe around SeiPunks fresh and exciting. It’s all about giving back and making sure our community feels rewarded and engaged. With these moves, we’re not just creating NFTs, we’re creating experiences.",
+        "hidden": true,
+        "question": "Detail any integrations or partnerships with other Sei ecosystem projects and their measurable impact.",
+        "questionId": 5
+      },
+      {
+        "type": "paragraph",
+        "answer": "SeiPunks stands out because we’re not just about minting NFTs we’re about building a  community .We’re one of the first big collections on Sei, and that gives us an edge. What makes us different is our **organic growth** and how we’ve brought together collectors from **Ethereum, Solana**, and beyond, all united by a shared love for unique NFTs. Instead of just focusing on quick trades, we focus on real engagement, like hosting **exclusive events** for holders and creating **cross-chain partnerships**. This not only enhances the Sei experience but also shows that SeiPunks is more than just a project it’s a movement within the Sei ecosystem.",
+        "hidden": true,
+        "question": "What differentiates your project from similar solutions in the ecosystem? How does it enhance the user experience on Sei?",
+        "questionId": 6
+      },
+      {
+        "type": "paragraph",
+        "answer": "1. Pioneering Sei NFT Movement*\n   SeiPunks has been one of the first major NFT collections on Sei, and this early involvement has had a massive impact on bringing more attention to the Sei ecosystem. We were there from the beginning, helping to establish Sei as a viable platform for NFTs. Our 150,000 SEI in transaction volume and steady organic growth helped introduce a new wave of users to the ecosystem, many of whom were drawn in from chains like Ethereum and Solana. Through this, we've significantly contributed to the growth of the Sei NFT space and created a space for collectors and creators alike. \n\n2. Strategic Cross-Chain Partnerships \n   Our partnership with @KatzNFTs and other projects has helped bridge communities across Sei and other chains. These collaborations have opened doors for SeiPunks holders to access a variety of rewards, including exclusive raffles, airdrops of memecoins, and special access events**. These cross-chain efforts have helped boost engagement and bring new users into the Sei ecosystem, ultimately enhancing its visibility and adoption. \n\n3. Community Engagement & Holder Rewards  \n   The poker party for holder and regular airdrops of memecoins have made SeiPunks not just an NFT collection, but an interactive experience. By creating ways for holders to actively participate in events and earn rewards, we've boosted user retention and kept the community engaged. This continuous engagement plays a big role in growing the Sei community and ensuring that the users who join stay involved in its long-term success. ",
+        "hidden": true,
+        "question": "Highlight 1-3 key initiatives your team believes have had the most significant impact on the Sei ecosystem and that you’d like voters to consider. Include relevant metrics, links, or supporting data to provide an informed view of how your efforts have contributed to the ecosystem’s growth. ",
+        "questionId": 7
+      },
+      {
+        "type": "checkbox",
+        "answer": [
+          "Yes"
+        ],
+        "hidden": true,
+        "question": "Please confirm that you have read and agree to comply with the ethical standards outlined in the eligibility criteria.",
+        "questionId": 8
+      },
+      {
+        "type": "paragraph",
+        "answer": "As the team behind SeiPunks, we've put in a lot of work, even with the tough market conditions. But we’re not backing down. Punks are culture and we’re here to build with our Sei fam. Our goal?Back to the top 10 with a solid floor. It’s not just about the price—it’s about creating something lasting in the Sei ecosystem. We’re focused on real community growth, quality engagement, and making SeiPunks a true leader in the red chain. The market won’t define us; our community will.",
+        "hidden": true,
+        "question": "Is there anything else you'd like to share about your project that may help determine eligibility?",
+        "questionId": 9
+      }
+    ]
+  },
+  {
+    "id": "7",
+    "projectId": "0x7997d43553f5ea126a4225959ec7fe1a10424121dcc310d15343bee5bc6648be",
+    "status": "PENDING",
+    "name": "Anons",
+    "website": "https://www.quosha.store/",
+    "anchorAddress": "0x284fbc0159292c27adca1a67272912ce6ed5d29f",
+    "recipient": "0x1c8520d2dfe52b1e71993e9114213b2a19cf5124",
+    "fund_link": "https://explorer.gitcoin.co/#/round/1329/9/7",
+    "answers": [
+      {
+        "type": "short-answer",
+        "answer": "@palashx08",
+        "hidden": true,
+        "question": "Telegram Handle for Contact",
+        "questionId": 0
+      },
+      {
+        "type": "short-answer",
+        "answer": "https://discord.gg/Th9CE68GUU",
+        "hidden": false,
+        "question": "Public group chat link",
+        "questionId": 1
+      },
+      {
+        "type": "paragraph",
+        "answer": "We retain users through pre launch merchandise giveaways through various contests, giveaway and collaborations.\nWe can share X links on these posts.\n\nWe are still waiting to go live with Quosha's website. We will be able to provide active user data for the platform when it is live. \nhttps://quosha-ink.vercel.app/\n",
+        "hidden": true,
+        "question": "What have your project's key user metrics been since launch (DAU, WAU, MAU)? Please provide verifiable data showing growth trends.",
+        "questionId": 2
+      },
+      {
+        "type": "paragraph",
+        "answer": "Anons is about to launch soon. This is Turtlez NFT data.\nTurtlez are a part of Anons. It was launched just for the vibes as a free mint.\n\nhttps://seitrace.com/address/sei1x05sqdjyrr7pp7hk058gzt7ue3yph7pk9q7z93?chain=pacific-1\n\nhttps://seitrace.com/token/sei1hra4ne0zaueu643smxzx9s4as2clkuv0tfkvvdhvcxhm20x6fsnqqkxv6c?chain=pacific-1&tab=token_transfers",
+        "hidden": true,
+        "question": "Share your project's total transaction volume and unique wallet interactions since the launch of Sei V2.",
+        "questionId": 3
+      },
+      {
+        "type": "paragraph",
+        "answer": "Currently we have 284 Turtlez NFT holders for a supply of 888, Our discord has 564 verified Members and a combined X following of 1964 users among our key accounts. \nhttps://x.com/ashx008\nhttps://x.com/Anons_sei\nhttps://x.com/TurtlezSquad\nhttps://x.com/Quoshaink\n\n\nWe retain members through loyalty programs and also by hosting contests and delivering merchandise to their doorsteps.\n\nFor user Acquisitions, we plan on collaborating with existing and upcoming projects on SEI by giving them an offer to avail their IRL products through Quosha.\nWe are also providing upcoming NFT project to launch with  IRL products of choice for their paid mints just like our upcoming project ANONS.\n\nAnons is all set to Launch this February using\nhttps://quosha-ink.vercel.app/\n\nWe have already deployed Anons NFT\n\nWe have already added Anons, Turtlez and some collaboration merch with Zombseis, Midas, Tauk island and more for the launch.\n\n\n\n\n\n",
+        "hidden": true,
+        "question": "How many new users have your project brought to the Sei ecosystem? Describe your user acquisition methods and provide metrics.",
+        "questionId": 4
+      },
+      {
+        "type": "paragraph",
+        "answer": "During the past year we have had the chance to collaborate with several projects.\nOur previous collaboration includes:\n1.) Sei Nigerian community - We have had the pleasure to send Adidas X Anons merchandise to Sei Nigeria Community IRL Event held on January 18, 2025.\n\n2.) We have hosted Rumbles with giveaways of Merch, Nfts, Sei prizes for the community and collaborated with Korpdogs,  Dot on SEI, Cool Cows, Love on SEI, Tauk Island, Zombsei, Getsuga, Gensuki, Sei Whales, Sei minties, and more, natively.\nWe have also hosted cross chain rumbles that increases conversion.\n\n3.) We also host contests with merch giveaways on twitter and discord with the last one on on January 2, 2025 too keep our community engaged before we launch Anons.\n\n4.) We have had the chance to donate Nfts several times to Sei blckmrkt by Seilamis NFT for various causes.\n\nOur upcoming collaborations includes:\n\n1.) Quolabs: To celebrate upcoming Anons launch we have collaborated with ZombSeis, The Unfrgtn, Midas, Onyx, Tauk and White cloud Studio, and The Orbiters.\nWith Anons launch users can buy merch from these communities as well and claim Anons NFT.\n\nWe believe our initiatives and projects including Anons, Quosha and Turtlez will have these positive impacts:\n\n1.) By allowing multiple communities to sell branded merchandise, we are giving projects on SEI an additional revenue stream, driving SEI’s adoption as a blockchain with real-world commerce.\n\n2.) The collaborative NFT-minting model will encourage more projects to build on SEI, and launch with IRL products.\n\nOverall, these collaborations solidify SEI’s community-first culture, enhance engagement, and drive adoption by bringing real-world use cases to the ecosystem. \n\n\n",
+        "hidden": true,
+        "question": "Detail any integrations or partnerships with other Sei ecosystem projects and their measurable impact.",
+        "questionId": 5
+      },
+      {
+        "type": "paragraph",
+        "answer": "We have had been working on the background and have developed a go to spot for Sei community.\n\nhttps://quosha-ink.vercel.app/\n(Not live yet!)\n\nWith Quosha we aim to bring meaningful collaborations to the community and change the game for Paid mints in SEI community.\n\nAnons has been deployed on the mainnet and is ready to Launch in February\nThese are 500 handpicked generated Nfts and they will be distributed randomly during Anons Launch.\nCa: 0x458cdE1f6473088b53216a65B6D8afd31c5db796\n\nWe don't mind sharing it before launch. Have a peek!\n\nLeading the revolution, Anons NFT launch includes IRL products from our workshop to the users home.\nThis first of a kind launch on SEI will change the game for Paid mint where users get both a NFT and IRL Merchandise on the launch day.\n\nAlongside Anons, Quosha is a platform that gives access to other Sei communities as well to readily avail their merchandise to their holders and community members by allowing users to seamlessly claim the projects merchandise.",
+        "hidden": true,
+        "question": "What differentiates your project from similar solutions in the ecosystem? How does it enhance the user experience on Sei?",
+        "questionId": 6
+      },
+      {
+        "type": "paragraph",
+        "answer": "1.) We have been committed to build Quosha before our Launch  so that we can deliver IRL products on the day of launch of Anons NFTs. Instead of having IRL products  as a future promise on the roadmap. ( We do have a roadmap ahead though, too.)\n\n2.) First fashion store on SEI accepting SEI payments!\n\n3.) Lifetime discounts for Anons/AnonX holders, increasing NFT utility.\n\n4.) Partnerships with artists & designers to expand SEI’s creative ecosystem.\n\n5.) Having launched Turtlez NFT as a free mint has enabled us to build a loyal and strong community for Anons Launch on SEI. \nTurtlez NFT bring out a fun lore with 3D collectibles now.\nWe were also able to bring some members from our Tezos and Solana community to support us during Turtlez launch.\n\n",
+        "hidden": true,
+        "question": "Highlight 1-3 key initiatives your team believes have had the most significant impact on the Sei ecosystem and that you’d like voters to consider. Include relevant metrics, links, or supporting data to provide an informed view of how your efforts have contributed to the ecosystem’s growth. ",
+        "questionId": 7
+      },
+      {
+        "type": "checkbox",
+        "answer": [
+          "Yes"
+        ],
+        "hidden": true,
+        "question": "Please confirm that you have read and agree to comply with the ethical standards outlined in the eligibility criteria.",
+        "questionId": 8
+      },
+      {
+        "type": "paragraph",
+        "answer": "We were approved for creator fund round 2. After that we managed to scale up Quosha platform and AnonsNFT ( Animated Gifs) with the help of the funding.\n\nWe aim to use the next funding for paid marketing and promotion, Collaboration and operating costs and salaries.",
+        "hidden": true,
+        "question": "Is there anything else you'd like to share about your project that may help determine eligibility?",
+        "questionId": 9
+      }
+    ]
+  },
+  {
+    "id": "8",
+    "projectId": "0x0aeb0eb2b0b2ba75f7008364583494bdf57d758ebf9b398ab3a0301976824bb5",
+    "status": "PENDING",
+    "name": "Maliya",
+    "website": "https://maliya-tours.de/en/about-",
+    "anchorAddress": "0xe35fa5f968c895e9c0863d1024d8941a04d51f5d",
+    "recipient": "0x1fcde395528220b71b2aaf20d68e3608969ccd99",
+    "fund_link": "https://explorer.gitcoin.co/#/round/1329/9/8",
+    "answers": [
+      {
+        "type": "short-answer",
+        "answer": "@GunasingheMPS",
+        "hidden": true,
+        "question": "Telegram Handle for Contact",
+        "questionId": 0
+      },
+      {
+        "type": "short-answer",
+        "hidden": false,
+        "question": "Public group chat link",
+        "questionId": 1
+      },
+      {
+        "type": "paragraph",
+        "answer": "WAU",
+        "hidden": true,
+        "question": "What have your project's key user metrics been since launch (DAU, WAU, MAU)? Please provide verifiable data showing growth trends.",
+        "questionId": 2
+      },
+      {
+        "type": "paragraph",
+        "answer": "48",
+        "hidden": true,
+        "question": "Share your project's total transaction volume and unique wallet interactions since the launch of Sei V2.",
+        "questionId": 3
+      },
+      {
+        "type": "paragraph",
+        "answer": "31",
+        "hidden": true,
+        "question": "How many new users have your project brought to the Sei ecosystem? Describe your user acquisition methods and provide metrics.",
+        "questionId": 4
+      },
+      {
+        "type": "paragraph",
+        "answer": "yes",
+        "hidden": true,
+        "question": "Detail any integrations or partnerships with other Sei ecosystem projects and their measurable impact.",
+        "questionId": 5
+      },
+      {
+        "type": "paragraph",
+        "answer": "Cost efficient",
+        "hidden": true,
+        "question": "What differentiates your project from similar solutions in the ecosystem? How does it enhance the user experience on Sei?",
+        "questionId": 6
+      },
+      {
+        "type": "paragraph",
+        "answer": "speed cost time",
+        "hidden": true,
+        "question": "Highlight 1-3 key initiatives your team believes have had the most significant impact on the Sei ecosystem and that you’d like voters to consider. Include relevant metrics, links, or supporting data to provide an informed view of how your efforts have contributed to the ecosystem’s growth. ",
+        "questionId": 7
+      },
+      {
+        "type": "checkbox",
+        "answer": [
+          "Yes"
+        ],
+        "hidden": true,
+        "question": "Please confirm that you have read and agree to comply with the ethical standards outlined in the eligibility criteria.",
+        "questionId": 8
+      },
+      {
+        "type": "paragraph",
+        "answer": "No",
+        "hidden": true,
+        "question": "Is there anything else you'd like to share about your project that may help determine eligibility?",
+        "questionId": 9
+      }
+    ]
+  },
+  {
+    "id": "9",
+    "projectId": "0x92d5c3096a9b4f0a4a8e4c3b69f45970148843a94157234293d576852a5d2364",
+    "status": "PENDING",
+    "name": "Celestial Flutters",
+    "website": "https://celestialflutters.com",
+    "anchorAddress": "0x42f49315fd4d0b721f23504c0dd9f78944bdda4a",
+    "recipient": "0x2febe95507Be08580282361d0F9551CEdC0dedaC",
+    "fund_link": "https://explorer.gitcoin.co/#/round/1329/9/9",
+    "answers": [
+      {
+        "type": "short-answer",
+        "answer": "ROS19909",
+        "hidden": true,
+        "question": "Telegram Handle for Contact",
+        "questionId": 0
+      },
+      {
+        "type": "short-answer",
+        "hidden": false,
+        "question": "Public group chat link",
+        "questionId": 1
+      },
+      {
+        "type": "paragraph",
+        "answer": "Since launch I cant get you the exact numbers anymore since we have changed our domain name from Celestial Metamorphia to Celestial Flutters. But since we've been live on Celestial Flutters we have total of 276 unique users since January 2025",
+        "hidden": true,
+        "question": "What have your project's key user metrics been since launch (DAU, WAU, MAU)? Please provide verifiable data showing growth trends.",
+        "questionId": 2
+      },
+      {
+        "type": "paragraph",
+        "answer": "Since the time we launched our Smart Contract for the leaderboard we have done some decent numbers of a total of 349 TXs since the time of writing this. Which was launched 2 months ago\n\nhttps://seitrace.com/address/0xe676bcd53fd9553159d2ef5b06b744fb57cf090e?tab=transactions&transactions=evm&chain=pacific-1",
+        "hidden": true,
+        "question": "Share your project's total transaction volume and unique wallet interactions since the launch of Sei V2.",
+        "questionId": 3
+      },
+      {
+        "type": "paragraph",
+        "answer": "Celestial Flutters has brought roughly over 100 new users since the making of the project. We've had Fnatic Twitch streamers bring in their viewers to the SEI ecosystem from playing Celestial Flutters Live. He has an average of 700 daily viewers. Streamer is called Stallion and is apart of the Fnatic team.",
+        "hidden": true,
+        "question": "How many new users have your project brought to the Sei ecosystem? Describe your user acquisition methods and provide metrics.",
+        "questionId": 4
+      },
+      {
+        "type": "paragraph",
+        "answer": "So far we have included communities like Fuckers, Ghoons, and Sei Whale into the actual game as bosses. We plan on adding more community IP into the game where it fits best.",
+        "hidden": true,
+        "question": "Detail any integrations or partnerships with other Sei ecosystem projects and their measurable impact.",
+        "questionId": 5
+      },
+      {
+        "type": "paragraph",
+        "answer": "What differentiates my project from similar solutions would be the gaming aspect and the webstore that we will be releasing soon. There isn't a browser game as good as Celestial Flutters in all of web3 and with projects out of the ecosystem like Beezie and Courtyard catching traction its only a matter of time people realize what Shelf Collectibles is.",
+        "hidden": true,
+        "question": "What differentiates your project from similar solutions in the ecosystem? How does it enhance the user experience on Sei?",
+        "questionId": 6
+      },
+      {
+        "type": "paragraph",
+        "answer": "The 3 key initiatives my team believes we have the most significant would the way we built in the bear with very little eyes on us, the amazement we see from people out of web3 when they notice its a web3 game and just the fact that there is very little people doing what we are doing with the TCG collectibles.",
+        "hidden": true,
+        "question": "Highlight 1-3 key initiatives your team believes have had the most significant impact on the Sei ecosystem and that you’d like voters to consider. Include relevant metrics, links, or supporting data to provide an informed view of how your efforts have contributed to the ecosystem’s growth. ",
+        "questionId": 7
+      },
+      {
+        "type": "checkbox",
+        "answer": [
+          "Yes"
+        ],
+        "hidden": true,
+        "question": "Please confirm that you have read and agree to comply with the ethical standards outlined in the eligibility criteria.",
+        "questionId": 8
+      },
+      {
+        "type": "paragraph",
+        "hidden": true,
+        "question": "Is there anything else you'd like to share about your project that may help determine eligibility?",
+        "questionId": 9
+      }
+    ]
+  }
+]

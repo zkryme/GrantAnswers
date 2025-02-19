@@ -1,0 +1,12 @@
+/* index.css */
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Custom global styles */
+body {
+  @apply bg-gray-700 text-gray-200; /* Use Tailwind utilities for background and text color */
+  margin: 0; /* Remove default margin */
+  padding: 0; /* Remove default padding */
+}
